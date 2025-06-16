@@ -1,5 +1,5 @@
 
-# BioNoise Generator v0.1
+# BioNoise Generator v1.0.0
 from pynput import keyboard
 import pygame
 import random
